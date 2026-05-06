@@ -29,7 +29,7 @@ Inside the notebooks/ folder:
 ## 🚀 How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AmirmasoudCS/Python-mini-course.git`
+    git clone https://github.com/AmirmasoudCS/Python-mini-course.git
     cd Python-mini-course
     ```
 2. Install dependencies (optional):
