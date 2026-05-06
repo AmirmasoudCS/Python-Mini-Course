@@ -1,7 +1,7 @@
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square)
-![VS Code](https://img.shields.io/badge/VS%20Code-1.85+-007ACC?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square)
-![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square) &nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-1.85+-007ACC?style=flat-square) &nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square) &nbsp;
+![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square) &nbsp;
 
 # Python-mini-course
 This repository contains all Jupyter Notebook materials used in the Python Mini Course taught at Shahrekord University.
