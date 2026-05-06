@@ -45,6 +45,7 @@ Inside the notebooks/ folder:
     /numpy -> all numpy course files
 
 ## 📁 Folder Structure
+```
 python-mini-course/
                 |   .gitignore
                 |   LICENSE
@@ -63,7 +64,7 @@ python-mini-course/
                         pc_08.ipynb
                         pc_09.ipynb
                         pc_10.ipynb
-                        
+```            
 
 
 ## 📄 License
