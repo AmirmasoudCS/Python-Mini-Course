@@ -3,7 +3,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square) &nbsp;
 ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square) &nbsp;
 
-# Python-mini-course
+# Python-Mini-Course
 This repository contains all Jupyter Notebook materials used in the Python Mini Course taught at Shahrekord University.
 The course covers Python fundamentals from basic syntax to working with files and some introductions to numpy library.
 
