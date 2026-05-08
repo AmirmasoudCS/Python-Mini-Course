@@ -41,6 +41,10 @@ Inside the notebooks/ folder:
     ```
     jupyter lab
     ```
+    or VS Code:
+    ```
+    vs code
+    ```
 ## 📁 Folder Structure
 ```
 python-mini-course/
