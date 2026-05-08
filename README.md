@@ -28,22 +28,22 @@ Inside the notebooks/ folder:
 
 
 ## 🚀 How to Use
-1. Clone the repository:
+1. **Clone the repository**
     ```bash
     git clone https://github.com/AmirmasoudCS/Python-mini-course.git
     cd Python-mini-course
     ```
-2. Install dependencies (optional):
+2. **Install dependencies** (optional)
     ```bash
     pip install -r requirements.txt
     ```
-3. Open Jupyter Lab:
+3. **Open Jupyter Lab**
     ```
     jupyter lab
     ```
-    or VS Code:
+    or open in VS Code:
     ```
-    vs code
+    code .
     ```
 ## 📁 Folder Structure
 ```
