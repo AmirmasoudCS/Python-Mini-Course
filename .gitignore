@@ -218,3 +218,14 @@ __marimo__/
 .streamlit/secrets.toml
 #
 structure.txt
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Optional OS/editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
