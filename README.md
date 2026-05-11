@@ -8,19 +8,20 @@ This repository contains all Jupyter Notebook materials used in the Python Mini 
 The course covers Python fundamentals from basic syntax to working with files and some introductions to numpy library.
 
 ## 📘 Course Notebooks
-Inside the notebooks/ folder:
-- **pc_00** – Introduction  
-- **pc_01** – Variables & Data Types  
-- **pc_02** – Input & Output  
-- **pc_03** – Operators & Expressions  
-- **pc_04** – Conditionals  
-- **pc_05** – Loops  
-- **pc_06** – Data Structures  
-- **pc_07** – Functions  
-- **pc_08** – Modules & Libraries  
-- **pc_09** – File Handling  
-- **pc_10** – Final Project
-
+Inside the python_notebooks/ folder:
+- 📄 **pc_00** – Introduction  
+- 📄 **pc_01** – Variables & Data Types  
+- 📄 **pc_02** – Input & Output  
+- 📄 **pc_03** – Operators & Expressions  
+- 📄 **pc_04** – Conditionals  
+- 📄 **pc_05** – Loops  
+- 📄 **pc_06** – Data Structures  
+- 📄 **pc_07** – Functions  
+- 📄 **pc_08** – Modules & Libraries  
+- 📄 **pc_09** – File Handling  
+- 📄 **pc_10** – Final Project
+Inside numpy_notes folde/
+- 📄 **Numpy** - Basic numpy library introduction
 ## 🧰 Requirements
 - Python 3.10+
 - VS Code
