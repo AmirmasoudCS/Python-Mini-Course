@@ -48,9 +48,24 @@ Inside the notebooks/ folder:
 ## 📁 Folder Structure
 ```
 python-mini-course/
-├── mymodules/
+├── mymodules
 │   └── mymath.py
-├── notebook/
+├── numpy_notes
+│   ├── images
+│   │   ├── img1.png
+│   │   ├── img10.png
+│   │   ├── img11.png
+│   │   ├── img12.png
+│   │   ├── img2.png
+│   │   ├── img3.png
+│   │   ├── img4.png
+│   │   ├── img5.png
+│   │   ├── img6.png
+│   │   ├── img7.png
+│   │   ├── img8.png
+│   │   └── img9.png
+│   └── Numpy.ipynb
+├── python_notebooks
 │   ├── pc_00.ipynb
 │   ├── pc_01.ipynb
 │   ├── pc_02.ipynb
