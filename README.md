@@ -20,7 +20,7 @@ The course covers Python fundamentals from basic syntax to working with files an
 - 📄 **pc_08** – Modules & Libraries  
 - 📄 **pc_09** – File Handling  
 - 📄 **pc_10** – Final Project <br>
-### Inside numpy_notes folder/
+### Inside numpy_notes/ folder:
 - 📄 **Numpy** - Basic numpy library introduction
 ## 🧰 Requirements
 - Python 3.10+
