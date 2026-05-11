@@ -8,7 +8,7 @@ This repository contains all Jupyter Notebook materials used in the Python Mini 
 The course covers Python fundamentals from basic syntax to working with files and some introductions to numpy library.
 
 ## 📘 Course Notebooks
-Inside the python_notebooks/ folder:
+### Inside the python_notebooks/ folder:
 - 📄 **pc_00** – Introduction  
 - 📄 **pc_01** – Variables & Data Types  
 - 📄 **pc_02** – Input & Output  
@@ -20,7 +20,7 @@ Inside the python_notebooks/ folder:
 - 📄 **pc_08** – Modules & Libraries  
 - 📄 **pc_09** – File Handling  
 - 📄 **pc_10** – Final Project <br>
-Inside numpy_notes folder/
+### Inside numpy_notes folder/
 - 📄 **Numpy** - Basic numpy library introduction
 ## 🧰 Requirements
 - Python 3.10+
