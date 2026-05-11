@@ -24,7 +24,8 @@ The course covers Python fundamentals from basic syntax to working with files an
 - 📄 **Numpy** - Basic numpy library introduction
 ## 🧰 Requirements
 - Python 3.10+
-- VS Code
+- ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ VS Code
 - Jupyter Lab or Jupyter Notebook (optional)
 
 
