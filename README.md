@@ -48,43 +48,43 @@ The course covers Python fundamentals from basic syntax to working with files an
     ```
 ## 📁 Folder Structure
 ```
-python-mini-course/
-├── mymodules               # Directory we created to contain our user-defined module(s)
-│   └── mymath.py           # Module we created to import in the sessions
-├── numpy_notes             # Notebook to numpy library
-│   ├── images              # Images that were either created or made to visualize functionality
-│   │   ├── img1.png        # Numpy logo
-│   │   ├── img10.png       # Numpy data + ones
-│   │   ├── img11.png       # Numpy matrix indexing
-│   │   ├── img12.png       # Numpy ones, zeros, random 
-│   │   ├── img2.png        # Numpy array
-│   │   ├── img3.png        # Numpy indexing in scipy lectures
-│   │   ├── img4.png        # Numpy array indexing
-│   │   ├── img5.png        # Numpy ones
-│   │   ├── img6.png        # Numpy array min, max, sum
-│   │   ├── img7.png        # Numpy axis
-│   │   ├── img8.png        # Numpy shape and reshape
-│   │   └── img9.png        # Numpy matrix transpose
-│   └── Numpy.ipynb         # Note to numpy lesson
-├── python_notebooks        # Notebook of python course we covered
-│   ├── pc_00.ipynb         # Introductions & Table of contents
-│   ├── pc_01.ipynb         # Installing Dependencies
-│   ├── pc_02.ipynb         # Variables & Data Types
-│   ├── pc_03.ipynb         # Input & Output
-│   ├── pc_04.ipynb         # Operators
-│   ├── pc_05.ipynb         # Conditional Statements
-│   ├── pc_06.ipynb         # Loops
-│   ├── pc_07.ipynb         # Data Structure
-│   ├── pc_08.ipynb         # Functions
-│   ├── pc_09.ipynb         # Modules & Libraries
-│   ├── pc_10.ipynb         # File Handling
-│   └── professors.txt      # Text file we created ourself
-├── .gitignore              # Git file to ignore file to push
-├── GitHub_Lockup_Black.png # GitHub logo for slides
-├── LICENSE                 # MIT LICENSE
-├── README.md               # READEM file
-├── requirements.txt        # Required libraries for this course
-└── students.txt            # Students file that we read from in the course
+📁 python-mini-course/
+├── 📂 mymodules/                   # Directory we created to contain our user-defined module(s)
+│   └── 🐍 mymath.py                # Module we created to import in the sessions
+├── 📂 numpy_notes/                 # Notebook to numpy library
+│   ├── 📂 images/                  # Images that were either created or made to visualize functionality
+│   │   ├── 🖼️ img1.png             # Numpy logo
+│   │   ├── 🖼️ img10.png            # Numpy data + ones
+│   │   ├── 🖼️ img11.png            # Numpy matrix indexing
+│   │   ├── 🖼️ img12.png            # Numpy ones, zeros, random 
+│   │   ├── 🖼️ img2.png             # Numpy array
+│   │   ├── 🖼️ img3.png             # Numpy indexing in scipy lectures
+│   │   ├── 🖼️ img4.png             # Numpy array indexing
+│   │   ├── 🖼️ img5.png             # Numpy ones
+│   │   ├── 🖼️ img6.png             # Numpy array min, max, sum
+│   │   ├── 🖼️ img7.png             # Numpy axis
+│   │   ├── 🖼️ img8.png             # Numpy shape and reshape
+│   │   └── 🖼️ img9.png             # Numpy matrix transpose
+│   └── 📄 Numpy.ipynb              # Note to numpy lesson
+├── 📂 python_notebooks             # Notebook of python course we covered
+│   ├── 📄 pc_00.ipynb              # Introductions & Table of contents
+│   ├── 📄 pc_01.ipynb              # Installing Dependencies
+│   ├── 📄 pc_02.ipynb              # Variables & Data Types
+│   ├── 📄 pc_03.ipynb              # Input & Output
+│   ├── 📄 pc_04.ipynb              # Operators
+│   ├── 📄 pc_05.ipynb              # Conditional Statements
+│   ├── 📄 pc_06.ipynb              # Loops
+│   ├── 📄 pc_07.ipynb              # Data Structure
+│   ├── 📄 pc_08.ipynb              # Functions
+│   ├── 📄 pc_09.ipynb              # Modules & Libraries
+│   ├── 📄 pc_10.ipynb              # File Handling
+│   └── 📝 professors.txt           # Text file we created ourself
+├── 🚫 .gitignore                   # Git file to ignore file to push
+├── 🖼️ GitHub_Lockup_Black.png      # GitHub logo for slides
+├── ⚖️ LICENSE                      # MIT LICENSE
+├── 📖 README.md                    # READEM file
+├── 📝 requirements.txt             # Required libraries for this course
+└── 📝 students.txt                 # Students file that we read from in the course
 ```            
 
 
