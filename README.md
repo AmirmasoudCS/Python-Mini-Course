@@ -89,4 +89,4 @@ python-mini-course/
 
 
 ## ⚖️ License
-MIT [LICENSE](LICENSE).   
+This project is licensed under the MIT [LICENSE](License). This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the software. The software is provided “as is”, without warranty of any kind, express or implied, and in no event shall the authors be liable for any claim, damages, or other liability arising from its use.
