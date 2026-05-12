@@ -31,8 +31,8 @@ The course covers Python fundamentals from basic syntax to working with files an
 ## 🚀 How to Use
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/AmirmasoudCS/Python-mini-course.git
-    cd Python-mini-course
+    git clone https://github.com/AmirmasoudCS/Python-Mini-Course.git
+    cd Python-Mini-Course
     ```
 2. **Install dependencies** (optional)
     ```bash
